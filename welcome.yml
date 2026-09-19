@@ -1,9 +1,1 @@
-server:
-  port: 8081
-
-spring:
-  application:
-    name: welcome-service
-
-welcome:
-  message: "Welcome from Config Server"
+message: "Welcome from Config Server"
